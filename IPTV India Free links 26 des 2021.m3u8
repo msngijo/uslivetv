@@ -1,0 +1,1933 @@
+#EXTM3U
+#EXTINF:28,9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:0,Aaj Tak (720p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0,Aaj Tak (576p)
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0,ABP Ananda (720p)
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+#EXTINF:0,ABP Ananda (720p)
+https://d3pnfn2zxtq6km.cloudfront.net/out/v1/c77a35d9d4f74371a3cf0f214a9eb8c0/index.m3u8
+#EXTINF:0,ABP Asmita (720p)
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+#EXTINF:0,ABP Asmita (324p)
+https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+#EXTINF:0,ABP Majha (720p)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+#EXTINF:0,Amar Ujala (360p)
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:0,Anjan (720p)
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:0,Assam Talks (240p)
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:0,Ayush TV (720p)
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:0,B4U Kadak (576p)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:0,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:0,Bflix Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:0,Boogle Bollywood (400p)
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:0,Channel Win (360p)
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:0,Channel Y (720p)
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:0,Cine Voice (1080p)
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:0,Cine Voice (1080p)
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:0,CNBC Awaaz
+https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+#EXTINF:0,CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:0,CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:0,CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0,DD National (576p)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:0,DD National (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:0,DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:0,Desi Channel (400p)
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:0,Desi Plus (720p)
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:0,FASTWAY NEWS (720p)
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+#EXTINF:0,Gaunda Punjab TV (720p)
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0,Global Punjab (720p)
+https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+#EXTINF:0,GurSikh Sabha TV
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+#EXTINF:0,Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:0,India News (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:0,India Today (720p)
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:0,India TV (480p)
+https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
+#EXTINF:0,Jan TV (360p)
+http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
+#EXTINF:0,Janta TV (1080p)
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:0,Jeevan TV (576p)
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:0,Jhanjar Music [Not 24/7]
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0,Jonack TV (360p)
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:0,Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:0,Lok Sabha TV (576p)
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:0,Maha Movie (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0,Manoranjan Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:0,Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:0,Mastiii (576p)
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:0,Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:0,MH1 Music (360p)
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:0,MH1 Prime (360p)
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:0,NDTV 24X7 (480p)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:0,NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:0,Nethra TV (480p)
+https://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+#EXTINF:0,News 18 Hindi
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,News 24 (480p)
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
+#EXTINF:0,News 24 (360p)
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8
+#EXTINF:0,News18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:0,News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:0,Pratidin Time (360p)
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:0,Prime Canada TV (720p)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:0,Punjabi Zindabad (360p)
+http://stream.pztv.online/pztv/playlist.m3u8
+#EXTINF:0,Puthuyugam TV (576p)
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:0,Sanskaar
+https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
+#EXTINF:0,Sardari TV (1080p)
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:0,Satsang
+https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
+#EXTINF:0,Shemaroo Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:0,Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:0,Shemaroo Punjabi TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:0,Shraddha (360p)
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+#EXTINF:0,Shubhsandesh (576p)
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:0,SubRang TV
+https://cdn20.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:0,Swaraj Express (576p)
+https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
+#EXTINF:0,TAG TV (1080p)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:0,TAG TV
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:0,Times Now HD (480p)
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:0,Zee Bioskop (360p)
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:0,Zee TV (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
+#EXTINF:0,*** INDIA - github.com/Free-IPTV
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:0,5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0,7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:0,Akaal TV
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:0,Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:0,Ashrafi Channel
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+#EXTINF:0,Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:0,AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Ayush TV
+http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:0,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Channel-S Live TV - github.com/Free-IPTV
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+#EXTINF:0,Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,Channel Win
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:0,DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:0,Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:0,Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:0,Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:0,Eye 95 America (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Flowers TV - github.com/Free-IPTV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:0,GSTV
+https://cdnlive.livecast.io/388656798579293628302251.m3u8
+#EXTINF:0,India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:0,Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:0,Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
+#EXTINF:0,Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:0,Jonack TV
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:0,Kairali News
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:0,Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:0,Kairali We
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:0,Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:0,Kalinga TV
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:0,Kanak News
+https://live.kanaknews.com:4443/live/stream/playlist.m3u8
+#EXTINF:0,Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:0,Kasthuri TV
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:0,Kaumudy TV
+http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+#EXTINF:0,Khyber News TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Mangalam TV - github.com/Free-IPTV
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:0,Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:0,Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:0,Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:0,MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:0,MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:0,MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:0,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:0,News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:0,News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:0,OTV
+https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
+#EXTINF:0,Peace TV Bangla
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:0,Pramaya News7
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+#EXTINF:0,Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:0,Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:0,Punjabi TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:0,Reporter TV
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:0,Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+#EXTINF:0,Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:0,Shubhsandesh
+http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:0,Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:0,Suvarna News 24/7
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+#EXTINF:0,Tamil Vision
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:0,Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
+#EXTINF:0,Twenty Four News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:0,Velicham
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:0,Channel S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:0,DBC News (1080p)
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:0,Ekusey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0,3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0,Akaram Kidz (460p) [Not 24/7]
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:0,Asianet News Tamil (360p)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:0,EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:0,Santhora Short Flim (720p)
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:0,Santhora TV (720p)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:0,Tamil Vision International (720p)
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:0,IN | STAR SPORTS 1 FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/83997
+#EXTINF:0,IN | STAR SPORTS 1 FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/83998
+#EXTINF:0,IN | STAR SPORTS 2 FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/83999
+#EXTINF:0,IN | STAR SPORTS SELECT 1 HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/84001
+#EXTINF:0,IN | STAR SPORTS SELECT 2 HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/84002
+#EXTINF:0,|IN| & PICTURE FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86185
+#EXTINF:0,|IN| Asianet FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86173
+#EXTINF:0,|IN| B4U +
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86184
+#EXTINF:0,|IN| Colors FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86174
+#EXTINF:0,|IN| Colors INFINITY FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86182
+#EXTINF:0,|IN| Colors rishtey FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86183
+#EXTINF:0,|IN| SAB FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86177
+#EXTINF:0,|IN| SET FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86178
+#EXTINF:0,|IN| SONY SAB FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86193
+#EXTINF:0,|IN| SONY TV FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86190
+#EXTINF:0,|IN| STAR BHARAT FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86179
+#EXTINF:0,|IN| Star GOLD FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86170
+#EXTINF:0,|IN| Star Gold Sel FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86171
+#EXTINF:0,|IN| Star Plus FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86172
+#EXTINF:0,|IN| SUN TV FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86180
+#EXTINF:0,|IN| TRAVEL XP FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86188
+#EXTINF:0,|IN| VIJAY FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86181
+#EXTINF:0,|IN| ZEE Cafe FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86168
+#EXTINF:0,|IN| ZEE CINEMA FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86167
+#EXTINF:0,|IN| ZEE TV FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86169
+#EXTINF:0,IN-PUNJ | 5AAB MUSIC HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52757
+#EXTINF:0,IN-PUNJ | CHARDIKLA TIMES TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52762
+#EXTINF:0,IN-PUNJ | DD PUNJABI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52764
+#EXTINF:0,IN-PUNJ | GARV PUNJABI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52768
+#EXTINF:0,IN-PUNJ | INDIA NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52771
+#EXTINF:0,IN-PUNJ | MANORANJAN MOVIES
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52776
+#EXTINF:0,IN-PUNJ | MH1 PRIME NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52777
+#EXTINF:0,IN-PUNJ | MH1 MUSIC
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52778
+#EXTINF:0,IN-PUNJ | MH1 SHRADDHA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52779
+#EXTINF:0,IN-PUNJ | NEWS 18 PUNJAB HARYANA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52780
+#EXTINF:0,IN-PUNJ | PITAARA TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52782
+#EXTINF:0,IN-PUNJ | PTC CHAKDE
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52784
+#EXTINF:0,IN-PUNJ | PTC NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52785
+#EXTINF:0,IN-PUNJ | PTC PUNJABI GOLD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52786
+#EXTINF:0,IN | ZEE CAFE HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52530
+#EXTINF:0,IN | ZEE TALKIES HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52531
+#EXTINF:0,IN | ZEE ANMOL
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52533
+#EXTINF:0,IN | ZEE CINEMA HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52534
+#EXTINF:0,IN | ZEE TV FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52535
+#EXTINF:0,IN | ZEE YUVA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52548
+#EXTINF:0,IN | SONY BBC EARTH HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52563
+#EXTINF:0,IN | SONY MAX 2
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52567
+#EXTINF:0,IN | SONY SAB FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52568
+#EXTINF:0,IN | SONY TV FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52572
+#EXTINF:0,IN | SONY MAX FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52573
+#EXTINF:0,IN | SONY SIX FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52576
+#EXTINF:0,IN | SONY TEN 2 FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52577
+#EXTINF:0,IN| 8XM HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87270
+#EXTINF:0,IN| 9XM
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87388
+#EXTINF:0,IN| 24 News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87370
+#EXTINF:0,IN| AAJ Entertainment
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87352
+#EXTINF:0,IN| AAJ Katez
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87397
+#EXTINF:0,IN| AL Jazeera HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87290
+#EXTINF:0,IN| Animal Planet HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87303
+#EXTINF:0,IN| Animal Planet World HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87379
+#EXTINF:0,IN| Apna TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87269
+#EXTINF:0,IN| Star Movies Select HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87240
+#EXTINF:0,IN| Ary Digital
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87316
+#EXTINF:0,IN| Ary News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87319
+#EXTINF:0,IN| Ary QTV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87315
+#EXTINF:0,IN| Asia Net HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87326
+#EXTINF:0,IN| B4U Movies
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87398
+#EXTINF:0,IN| B4U Music
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87382
+#EXTINF:0,IN| BBC Earth HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87220
+#EXTINF:0,IN| BBC News HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87293
+#EXTINF:0,IN| Bhojpuri Cinema
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87389
+#EXTINF:0,IN| Big Magic
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87394
+#EXTINF:0,IN| Bol Ent HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87353
+#EXTINF:0,IN| Capital News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87320
+#EXTINF:0,IN| Cartoon Network
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87339
+#EXTINF:0,IN| Channel5 News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87308
+#EXTINF:0,IN| Cineplex HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87259
+#EXTINF:0,IN| City 41 News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87374
+#EXTINF:0,IN| City 42 News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87375
+#EXTINF:0,IN| Classica HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87261
+#EXTINF:0,IN| CNN News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87292
+#EXTINF:0,IN| Colors Bangla HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87327
+#EXTINF:0,IN| Colors Gujrati
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87213
+#EXTINF:0,IN| Colors Gujrati HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87264
+#EXTINF:0,IN| Colors HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87281
+#EXTINF:0,IN| Colors Infinity HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87298
+#EXTINF:0,IN| Colors Tamil HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87267
+#EXTINF:0,IN| DANGAL
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87390
+#EXTINF:0,IN| Dawn News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87372
+#EXTINF:0,IN| DD Bangla
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87403
+#EXTINF:0,IN| DD Bharat
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87385
+#EXTINF:0,IN| DD Chandana
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87402
+#EXTINF:0,IN| DD Girner
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87401
+#EXTINF:0,IN| DD Kisan
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87405
+#EXTINF:0,IN| DD Punjabi
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87404
+#EXTINF:0,IN| DD Urdu
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87384
+#EXTINF:0,IN| Din NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87224
+#EXTINF:0,IN| Discovery HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87312
+#EXTINF:0,IN| Discovery Kids
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87373
+#EXTINF:0,IN| Discovery Science HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87277
+#EXTINF:0,IN| Discovery Turbo
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87364
+#EXTINF:0,IN| DM Cinema UK
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87233
+#EXTINF:0,IN| Epic HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87328
+#EXTINF:0,IN| ETV Telegu HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87307
+#EXTINF:0,IN| ETV UK
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87235
+#EXTINF:0,IN| Express Entertainment
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87275
+#EXTINF:0,IN| Express News HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87287
+#EXTINF:0,IN| Fashion HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87222
+#EXTINF:0,IN| Fox Life HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87256
+#EXTINF:0,IN| GEO Ent
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87378
+#EXTINF:0,IN| GEO Kahani
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87377
+#EXTINF:0,IN| GEO News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87380
+#EXTINF:0,IN| GEO Super HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87306
+#EXTINF:0,IN| GEO Tez
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87347
+#EXTINF:0,IN| Gnn News HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87359
+#EXTINF:0,IN| GTV News HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87361
+#EXTINF:0,IN| Hadi TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87310
+#EXTINF:0,IN| HBO HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87305
+#EXTINF:0,IN| History 18 HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87209
+#EXTINF:0,IN| History HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87344
+#EXTINF:0,IN| HUM News HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87362
+#EXTINF:0,IN| HUM Sitaray
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87351
+#EXTINF:0,IN| HUM TV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87376
+#EXTINF:0,IN| Ifilm English
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87225
+#EXTINF:0,IN| India News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87396
+#EXTINF:0,IN| Jalwa
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87252
+#EXTINF:0,IN| Karbala TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87274
+#EXTINF:0,IN| Kids Zone HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87262
+#EXTINF:0,IN| KTN News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87273
+#EXTINF:0,IN| KTV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87323
+#EXTINF:0,IN| M4U Movies
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87241
+#EXTINF:0,IN| Madani TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87279
+#EXTINF:0,IN| Maha Movies
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87387
+#EXTINF:0,IN| Masala TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87354
+#EXTINF:0,IN| Masti
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87383
+#EXTINF:0,IN| Music Masti
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87285
+#EXTINF:0,IN| National Geographic
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87343
+#EXTINF:0,IN| Neo News HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87349
+#EXTINF:0,IN| News One
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87356
+#EXTINF:0,IN| Nickelodeon HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87334
+#EXTINF:0,IN| NOO TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87245
+#EXTINF:0,IN| Paigham TV Pashto
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87284
+#EXTINF:0,IN| Peace TV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87311
+#EXTINF:0,IN| PTC Chakde
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87283
+#EXTINF:0,IN| PTC News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87278
+#EXTINF:0,IN| PTC Punjabi
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87291
+#EXTINF:0,IN| PTV Home
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87358
+#EXTINF:0,IN| PTV News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87357
+#EXTINF:0,IN| PTV World
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87345
+#EXTINF:0,IN| Public News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87321
+#EXTINF:0,IN| Ravi TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87295
+#EXTINF:0,IN| Republic News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87254
+#EXTINF:0,IN| Romedy Now
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87331
+#EXTINF:0,IN| Samaa News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87369
+#EXTINF:0,IN| Sindh Entertainment
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87271
+#EXTINF:0,IN| Sindh News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87272
+#EXTINF:0,IN| Sky Star Movies
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87400
+#EXTINF:0,IN| Sony HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87337
+#EXTINF:0,IN| Sony MAX HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87260
+#EXTINF:0,IN| Sony Pix HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87221
+#EXTINF:0,IN| Sony SAB HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87302
+#EXTINF:0,IN| Star Bharat
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87341
+#EXTINF:0,IN| Star Gold HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87297
+#EXTINF:0,IN| Star Gold Select HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87338
+#EXTINF:0,IN| Star Maa HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87330
+#EXTINF:0,IN| Star Movies HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87286
+#EXTINF:0,IN| Star Plus HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87282
+#EXTINF:0,IN| Star Sports 1 HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87257
+#EXTINF:0,IN| Star Sports 2 HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87301
+#EXTINF:0,IN| Star Sports Select 1 HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87304
+#EXTINF:0,IN| Star Sports select 2 HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87300
+#EXTINF:0,IN| Star Vijay HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87265
+#EXTINF:0,IN| Star Vijay Super
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87251
+#EXTINF:0,IN| Star World Premiere HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87276
+#EXTINF:0,IN| Sun Music
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87325
+#EXTINF:0,IN| Sun TV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87329
+#EXTINF:0,IN| Surya Cinema
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87214
+#EXTINF:0,IN| Surya Samachar
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87391
+#EXTINF:0,IN| TEN 1 HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87342
+#EXTINF:0,IN| TEN 2 HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87248
+#EXTINF:0,IN| Ten Sports
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87247
+#EXTINF:0,IN| TEN Sports Pak
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87366
+#EXTINF:0,IN| Travel XP HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87266
+#EXTINF:0,IN| TV One
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87348
+#EXTINF:0,IN| Urdu one
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87360
+#EXTINF:0,IN| Vision Punjabi Music
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87207
+#EXTINF:0,IN| Vision Punjabi TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87208
+#EXTINF:0,IN| Zee Bangla HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87336
+#EXTINF:0,IN| Zee Biscope
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87217
+#EXTINF:0,IN| Zee Cafe
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87332
+#EXTINF:0,IN| ZEE Cinema HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87280
+#EXTINF:0,IN| ZEE Hindustan
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87386
+#EXTINF:0,IN| ZEE News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87381
+#EXTINF:0,IN| Zee Talkies
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87335
+#EXTINF:0,IN| Zee Tamil HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87324
+#EXTINF:0,IN| ZEE TV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87289
+#EXTINF:0,| INIA | TRAVEL XP
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49301
+#EXTINF:0,| INIA | AAJ Katez IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49307
+#EXTINF:0,| INIA | Asianet HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49311
+#EXTINF:0,| INIA | B4u Music IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49313
+#EXTINF:0,| INIA | Baby Tv HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49314
+#EXTINF:0,| INIA | Colors Bangla HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49320
+#EXTINF:0,| INIA | Colors Kannada HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49324
+#EXTINF:0,| INIA | Colors Tamil HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49325
+#EXTINF:0,| INIA | Disney HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49343
+#EXTINF:0,| INIA | Jalwa IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49354
+#EXTINF:0,| INIA | Ktv HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49356
+#EXTINF:0,| INIA | Nick HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49363
+#EXTINF:0,| INIA | Peace Tv HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49367
+#EXTINF:0,| INIA | Pix HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49368
+#EXTINF:0,| INIA | Sony Yay IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49376
+#EXTINF:0,| INIA | Sony Sab HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49378
+#EXTINF:0,| INIA | Sony Max HD IN.
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49379
+#EXTINF:0,|South India|  1SPORTS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86087
+#EXTINF:0,|South India|  7SMUSIC
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86088
+#EXTINF:0,|South India|  10tv
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86086
+#EXTINF:0,|South India|  24News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86155
+#EXTINF:0,|South India|  AMrita
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86159
+#EXTINF:0,|South India|  ANDHRA_JYOTI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86092
+#EXTINF:0,|South India|  AP_24X7
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86093
+#EXTINF:0,|South India|  Asianet HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86059
+#EXTINF:0,|South India|  Asianet Movies
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86061
+#EXTINF:0,|South India|  Asianet Plus
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86060
+#EXTINF:0,|South India|  Asianet_Middle_east
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86062
+#EXTINF:0,|South India|  Asianet_News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86063
+#EXTINF:0,|South India|  ATE_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86094
+#EXTINF:0,|South India|  ATV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86090
+#EXTINF:0,|South India|  CALVARY_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86096
+#EXTINF:0,|South India|  CAPTAIN_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86097
+#EXTINF:0,|South India|  CVR_NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86098
+#EXTINF:0,|South India|  Dangal
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86099
+#EXTINF:0,|South India|  Darshana_Tv
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86100
+#EXTINF:0,|South India|  Dheeran_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86101
+#EXTINF:0,|South India|  HMTV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86102
+#EXTINF:0,|South India|  I_NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86104
+#EXTINF:0,|South India|  Jaihind
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86158
+#EXTINF:0,|South India|  Jeevan
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86157
+#EXTINF:0,|South India|  KAIRALI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86106
+#EXTINF:0,|South India|  KAIRALI_ARABIA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86107
+#EXTINF:0,|South India|  KAIRALI_NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86108
+#EXTINF:0,|South India|  KALAIGNAR_CHITHIRAM
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86109
+#EXTINF:0,|South India|  KALAIGNAR_ISAI_ARUVI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86110
+#EXTINF:0,|South India|  KALAIGNAR_MURASU
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86111
+#EXTINF:0,|South India|  KALAIGNAR_SEITHIGAL
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86112
+#EXTINF:0,|South India|  KALAIGNAR_SIRIPPOLI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86113
+#EXTINF:0,|South India|  KALAIGNAR_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86114
+#EXTINF:0,|South India|  KALINGA_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86115
+#EXTINF:0,|South India|  Kerala_Vision
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86117
+#EXTINF:0,|South India|  MADHA_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86118
+#EXTINF:0,|South India|  MAKKAL_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86119
+#EXTINF:0,|South India|  MANGALAM_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86121
+#EXTINF:0,|South India|  Mazhavil Manorama
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86085
+#EXTINF:0,|South India|  Mazhavil_HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86122
+#EXTINF:0,|South India|  MH_ONE_MUSIC
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86125
+#EXTINF:0,|South India|  MH_ONE_NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86126
+#EXTINF:0,|South India|  MK_SIX
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86127
+#EXTINF:0,|South India|  MK_TELEVISION
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86128
+#EXTINF:0,|South India|  MK_TUNES
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86129
+#EXTINF:0,|South India|  MOON_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86130
+#EXTINF:0,|South India|  ORANGE_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86131
+#EXTINF:0,|South India|  POLIMER
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86133
+#EXTINF:0,|South India|  POWER_VISION
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86134
+#EXTINF:0,|South India|  PTC_NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86132
+#EXTINF:0,|South India|  PUBLIC_MOVIES
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86135
+#EXTINF:0,|South India|  PUBLIC_MUSIC
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86136
+#EXTINF:0,|South India|  PUBLIC_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86137
+#EXTINF:0,|South India|  RM_RUJUMARGAM_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86140
+#EXTINF:0,|South India|  R_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86139
+#EXTINF:0,|South India|  Sadhna_Prime_News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86141
+#EXTINF:0,|South India|  SATHIYAM_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86143
+#EXTINF:0,|South India|  SHEMAROO_MARATHIBANA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86145
+#EXTINF:0,|South India|  SRI_SANKARA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86146
+#EXTINF:0,|South India|  Studio_One
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86147
+#EXTINF:0,|South India|  SUN Bangla
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86068
+#EXTINF:0,|South India|  Sun Music HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86073
+#EXTINF:0,|South India|  Sun News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86067
+#EXTINF:0,|South India|  Sun tv HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86065
+#EXTINF:0,|South India|  SUN_LIFE
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86066
+#EXTINF:0,|South India|  Survana_news
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86160
+#EXTINF:0,|South India|  Surya HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86069
+#EXTINF:0,|South India|  TAMILAN_TELEVISION
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86149
+#EXTINF:0,|South India|  TOLLYWOOD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86150
+#EXTINF:0,|South India|  TV5_KANNADA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86154
+#EXTINF:0,|South India|  TV_5
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86153
+#EXTINF:0,|South India|  T_NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86148
+#EXTINF:0,|South India|  Udaya Comedy
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86071
+#EXTINF:0,|South India|  Udaya HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86070
+#EXTINF:0,|South India|  V6
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86161
+#EXTINF:0,|South India|  WE
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86162
+#EXTINF:0,|South India|  WIN_TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86163
+#EXTINF:0,|South India|  YONETV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86164
+#EXTINF:0,|South India|  Zee Cinema HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86075
+#EXTINF:0,|South India|  ZEE KERALAM HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86074
+#EXTINF:0,|South India|  Zee News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86077
+#EXTINF:0,|South India|  Zee Talkies HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86078
+#EXTINF:0,|South India|  Zee Tamil HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86079
+#EXTINF:0,|South India|  Zee Telugu
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86080
+#EXTINF:0,|South India|  zee TV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86081
+#EXTINF:0,|South India|  ZEE_ACTION
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86083
+#EXTINF:0,|South India|  ZEE_ANMOL_CINEMA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86084
+#EXTINF:0,|South India|  ZEE_BANGLA_CINE
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86082
+#EXTINF:0,|BD| Aamar BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79753
+#EXTINF:0,|BD| ABP Ananda BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79754
+#EXTINF:0,|BD| Asian TV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79755
+#EXTINF:0,|BD| ATN BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79756
+#EXTINF:0,|BD| ATN News BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79758
+#EXTINF:0,|BD| Boishakhi BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79762
+#EXTINF:0,|BD| BTV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79763
+#EXTINF:0,|BD| BTV World BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79764
+#EXTINF:0,|BD| Channel 9 BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79766
+#EXTINF:0,|BD| Channel 24 BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79765
+#EXTINF:0,|BD| Channel I BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79768
+#EXTINF:0,|BD| Channel I EU BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79769
+#EXTINF:0,|BD| Channel S BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79770
+#EXTINF:0,|BD| Colors+ BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79771
+#EXTINF:0,|BD| DD BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79773
+#EXTINF:0,|BD| Deepto HD BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79774
+#EXTINF:0,|BD| Deshe Bideshe TV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79775
+#EXTINF:0,|BD| Deshi TV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79776
+#EXTINF:0,|BD| DeshTV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79777
+#EXTINF:0,|BD| Dhoom Music BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79778
+#EXTINF:0,|BD| Ekatoor TV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79779
+#EXTINF:0,|BD| ETV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79780
+#EXTINF:0,|BD| Gaan BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79782
+#EXTINF:0,|BD| Independent BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79783
+#EXTINF:0,|BD| iTV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79784
+#EXTINF:0,|BD| Jamuna TV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79785
+#EXTINF:0,|BD| Maasaranga BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79786
+#EXTINF:0,|BD| Masranga TV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79787
+#EXTINF:0,|BD| Movie BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79790
+#EXTINF:0,|BD| Music BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79791
+#EXTINF:0,|BD| MyTV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79792
+#EXTINF:0,|BD| News 24 HD BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79793
+#EXTINF:0,|BD| NRB TV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79794
+#EXTINF:0,|BD| R Plus News BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79798
+#EXTINF:0,|BD| RTV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79799
+#EXTINF:0,|BD| Ruposhi BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79800
+#EXTINF:0,|BD| Sangeet BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79801
+#EXTINF:0,|BD| SATV BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79802
+#EXTINF:0,|BD| Somoy BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79805
+#EXTINF:0,|BD| Star Jalsa BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79806
+#EXTINF:0,|BD| Star Jhalsa Movies BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79807
+#EXTINF:0,|BD| TV UK BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79809
+#EXTINF:0,|BD| Zee BD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79810
+#EXTINF:0,TAMIL (HD)- ADHTIYA TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40805
+#EXTINF:0,TAMIL (HD)- ANGEL TV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40806
+#EXTINF:0,TAMIL (HD)- COLORS TAMIL HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40808
+#EXTINF:0,TAMIL (HD)- DD PODHIGAI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40809
+#EXTINF:0,TAMIL (HD)- DISCOVERY WORLD HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40810
+#EXTINF:0,TAMIL (HD)- FOX LIFE HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40811
+#EXTINF:0,TAMIL (HD)- HISTORY TV18 HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40812
+#EXTINF:0,TAMIL (HD)- JAYA TV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40814
+#EXTINF:0,TAMIL (HD)- KTV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40815
+#EXTINF:0,TAMIL (HD)- NAT GEO WILD HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40817
+#EXTINF:0,TAMIL (HD)- NATIONAL GEOGRAPHIC HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40818
+#EXTINF:0,TAMIL (HD)- NEWS 18 TAMIL
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40819
+#EXTINF:0,TAMIL (HD)- RAJ MUSIX
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40820
+#EXTINF:0,TAMIL (HD)- RAJ TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40821
+#EXTINF:0,TAMIL (HD)- SONY BBC EARTH HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40823
+#EXTINF:0,TAMIL (HD)- STAR VIJAY HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40824
+#EXTINF:0,TAMIL (HD)- SUN LIFE
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40825
+#EXTINF:0,TAMIL (HD)- SUN MUSIC HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40826
+#EXTINF:0,TAMIL (HD)- SUN NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40827
+#EXTINF:0,TAMIL (HD)- SUN TV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40828
+#EXTINF:0,TAMIL (HD)- TATA SKY TAMIL CINEMA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40829
+#EXTINF:0,TAMIL (HD)- VASANTH TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40830
+#EXTINF:0,TAMIL (HD)- VIJAY SUPER HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40832
+#EXTINF:0,TAMIL (HD)- ZEE TAMIL HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40835
+#EXTINF:0,TAMIL (HD)- IBC BAKTHI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40843
+#EXTINF:0,TAMIL (HD)- IBC COMEDY
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40845
+#EXTINF:0,TAMIL (HD)- TVI HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40847
+#EXTINF:0,TELUGU (HD)- BHAKTI TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40852
+#EXTINF:0,TELUGU (HD)- DISCOVERY WORLD HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40853
+#EXTINF:0,TELUGU (HD)- ETV CINEMA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40854
+#EXTINF:0,TELUGU (HD)- ETV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40855
+#EXTINF:0,TELUGU (HD)- GEMINI HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40856
+#EXTINF:0,TELUGU (HD)- GEMINI MOVIES HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40857
+#EXTINF:0,TELUGU (HD)- HISTORY 18 TELUGU HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40858
+#EXTINF:0,TELUGU (HD)- JAYA MAX
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40859
+#EXTINF:0,TELUGU (HD)- MAA MOVIES HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40860
+#EXTINF:0,TELUGU (HD)- NATIONAL GEOGRAPHIC HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40861
+#EXTINF:0,TELUGU (HD)- RAJ MUSIC TELUGU
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40862
+#EXTINF:0,TELUGU (HD)- RAJ NEWS TELUGU
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40863
+#EXTINF:0,TELUGU (HD)- SONY BBC EARTH HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40864
+#EXTINF:0,TELUGU (HD)- STAR MAA GOLD HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40865
+#EXTINF:0,TELUGU (HD)- STAR MAA HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40866
+#EXTINF:0,TELUGU (HD)- TATA SKY TELUGU CINEMA HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40867
+#EXTINF:0,TELUGU (HD)- TV9 NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40868
+#EXTINF:0,TELUGU (HD)- V6 NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40869
+#EXTINF:0,TELUGU (HD)- VANITHA TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40870
+#EXTINF:0,TELUGU (HD)- ZEE CINEMALU HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40871
+#EXTINF:0,TELUGU (HD)- ZEE TELUGU HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40873
+#EXTINF:0,TELUGU (HD)- DD SAPTAGIRI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40874
+#EXTINF:0,IN-ASAM | DD NORTH EAST
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52872
+#EXTINF:0,IN-ASAM | DY 365
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52873
+#EXTINF:0,IN-ASAM | INDRADHANU
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52874
+#EXTINF:0,IN-ASAM | NEWS 18 ASSAM
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52876
+#EXTINF:0,IN-ASAM | NEWS LIVE
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52878
+#EXTINF:0,IN-ASAM | NORTH EAST LIVE
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52877
+#EXTINF:0,IN-ASAM | PRAG NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52879
+#EXTINF:0,IN-ASAM | PROTIDIN TIME
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52880
+#EXTINF:0,IN-ASAM | RAMDHENU
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52881
+#EXTINF:0,IN-ASAM | RANG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52882
+#EXTINF:0,IN-ASAM | RENGONI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52883
+#EXTINF:0,IN-TG | ABN ANDHRA JYOTHI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52794
+#EXTINF:0,IN-TG | BBC EARTH HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52796
+#EXTINF:0,IN-TG | BHAKTI TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52797
+#EXTINF:0,IN-TG | CARTOON NETWORK
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52798
+#EXTINF:0,IN-TG | DD SAPTAGIRI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52803
+#EXTINF:0,IN-TG | DISCOVERY CHANNEL
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52802
+#EXTINF:0,IN-TG | ETV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52804
+#EXTINF:0,IN-TG | ETV ANDHRA PRADESH
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52806
+#EXTINF:0,IN-TG | ETV LIFE
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52808
+#EXTINF:0,IN-TG | ETV PLUS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52809
+#EXTINF:0,IN-TG | ETV TELANGANA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52810
+#EXTINF:0,IN-TG | GEMINI MOVIES
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52813
+#EXTINF:0,IN-TG | GEMINI MOVIES HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52814
+#EXTINF:0,IN-TG | GEMINI TV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52817
+#EXTINF:0,IN-TG | HINDU DHARMAM
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52818
+#EXTINF:0,IN-TG | HISTORY 18
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52820
+#EXTINF:0,IN-TG | HM TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52819
+#EXTINF:0,IN-TG | MAA GOLD HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52824
+#EXTINF:0,IN-TG | MAA MOVIES HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52825
+#EXTINF:0,IN-TG | NICK
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52827
+#EXTINF:0,IN-TG | NTV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52828
+#EXTINF:0,IN-TG | RAJ MUSIC
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52830
+#EXTINF:0,IN-TG | RAJ NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52831
+#EXTINF:0,IN-TG | SAKSHI TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52833
+#EXTINF:0,IN-TG | STAR MAA FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52835
+#EXTINF:0,IN-TG | STUDIO N
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52836
+#EXTINF:0,IN-TG | T NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52837
+#EXTINF:0,IN-TG | TV9 News
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52839
+#EXTINF:0,IN-TG | V6 NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52843
+#EXTINF:0,IN-TG | VISSA TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52841
+#EXTINF:0,IN-TM | CARTOON NETWORK
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52850
+#EXTINF:0,IN-TM | DISCOVERY CHANNEL
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52852
+#EXTINF:0,IN-TM | DISCOVERY KIDS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52853
+#EXTINF:0,IN-TM | HISTORY HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52854
+#EXTINF:0,IN-TM | JAYA PLUS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52858
+#EXTINF:0,IN-TM | JAYA TV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52859
+#EXTINF:0,IN-TM | J MOVIES
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52857
+#EXTINF:0,IN-TM | KTV HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52860
+#EXTINF:0,IN-TM | NICK TAMIL
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52861
+#EXTINF:0,IN-TM | POGO
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52862
+#EXTINF:0,IN-TM | RAJ DIGITAL PLUS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52863
+#EXTINF:0,IN-TM | RAJ MUSIX
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52864
+#EXTINF:0,IN-TM | RAJ TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52866
+#EXTINF:0,IN-TM | STAR VIJAY FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52867
+#EXTINF:0,| AFG |  Ayeneh TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/92487
+#EXTINF:0,| AFG |  Kayhan Televsion Afghan
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/92489
+#EXTINF:0,| AFG |  Zhwandoon
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/92488
+#EXTINF:0,| AFG | 1TV Afghanistan AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49380
+#EXTINF:0,| AFG | Afghan Javan AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49381
+#EXTINF:0,| AFG | Arezo TV HD AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49384
+#EXTINF:0,| AFG | Arezu TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49385
+#EXTINF:0,| AFG | Aria Music AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49386
+#EXTINF:0,| AFG | Ariana News AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49387
+#EXTINF:0,| AFG | Ariana TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49388
+#EXTINF:0,| AFG | Ariana USA AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49389
+#EXTINF:0,| AFG | Ariana World AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49390
+#EXTINF:0,| AFG | ATN News AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49391
+#EXTINF:0,| AFG | ATN INT HD AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49392
+#EXTINF:0,| AFG | Bahar TV HD AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49395
+#EXTINF:0,| AFG | Batur AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49396
+#EXTINF:0,| AFG | Hazara World TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49397
+#EXTINF:0,| AFG | Hewad TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49398
+#EXTINF:0,| AFG | Iman TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49399
+#EXTINF:0,| AFG | Kana TV HD AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49400
+#EXTINF:0,| AFG | Zarin TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49401
+#EXTINF:0,| AFG | Kayhan TV HD AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49403
+#EXTINF:0,| AFG | Khurshid TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49404
+#EXTINF:0,| AFG | Payam E Afghanistan AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49405
+#EXTINF:0,| AFG | Lemar HD AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49406
+#EXTINF:0,| AFG | Maiwand TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49407
+#EXTINF:0,| AFG | RTA NEWS AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49408
+#EXTINF:0,| AFG | Naween TV HD AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49409
+#EXTINF:0,| AFG | Noor TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49412
+#EXTINF:0,| AFG | One TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49413
+#EXTINF:0,| AFG | Pashto TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49414
+#EXTINF:0,| AFG | Payame Afghan AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49415
+#EXTINF:0,| AFG | Shamshad AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49416
+#EXTINF:0,| AFG | Srood TV AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49417
+#EXTINF:0,| AFG | Tamadon Afghan AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49418
+#EXTINF:0,| AFG | Tolo HD AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49419
+#EXTINF:0,| AFG | Tolo News HD AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49420
+#EXTINF:0,| AFG | Watan Tv AFG
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49422
+#EXTINF:0,IN-KN | KASTURI
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52886
+#EXTINF:0,IN-KN | PUBLIC MUSIC
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52887
+#EXTINF:0,IN-KN | PUBLIC TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52889
+#EXTINF:0,IN-KN | RAJ MUSIC
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52891
+#EXTINF:0,IN-KN | RAJ NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52892
+#EXTINF:0,IN-KN | SRI SANKARA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52893
+#EXTINF:0,IN-KN | SUDDI NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52894
+#EXTINF:0,IN-KN | SUVARNA NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52895
+#EXTINF:0,IN-KN | SUVARNA HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52896
+#EXTINF:0,IN-KN | TV 5 KANNADA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52897
+#EXTINF:0,IN-KN | TV9 KARNATAKA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52898
+#EXTINF:0,IN-KN | UDAYA HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52900
+#EXTINF:0,IN-KN | UDAYA TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52901
+#EXTINF:0,===>ORIYA<===
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52905
+#EXTINF:0,IN-ODIA | ALANKAR TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52906
+#EXTINF:0,IN-ODIA | COLORS ODIYA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52907
+#EXTINF:0,IN-ODIA | DD ORIYA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52908
+#EXTINF:0,IN-ODIA | OTV (ODISHA TV)
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52913
+#EXTINF:0,IN-ODIA | NEWS WORLD ODISHA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52914
+#EXTINF:0,IN-ODIA | PRATHANA TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52916
+#EXTINF:0,IN-ODIA | TARANG MUSIC
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52918
+#EXTINF:0,IN-ODIA | TARANG TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52919
+#EXTINF:0,IN-MY | ASIANET HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49120
+#EXTINF:0,IN-MY | ASIANET MOVIES HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49121
+#EXTINF:0,IN-MY | ASIANET PLUS HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49122
+#EXTINF:0,IN-MY | ASIANET NEWS HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49123
+#EXTINF:0,IN-MY | AMRITA TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49124
+#EXTINF:0,IN-MY | FLOWER TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49126
+#EXTINF:0,IN-MY | KAIRALI NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49130
+#EXTINF:0,IN-MY | KAIRALI TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49131
+#EXTINF:0,IN-MY | KAIRALI WE TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49132
+#EXTINF:0,IN-MY | KAPPA TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49133
+#EXTINF:0,IN-MY | MANORAMA NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49137
+#EXTINF:0,IN-MY | MATHRUBHUMI NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49138
+#EXTINF:0,IN-MY | MAZHAWIL MANORAMA HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49139
+#EXTINF:0,IN-MY | MEDIA ONE TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49142
+#EXTINF:0,IN-MY | NEWS 18 KERALA
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49143
+#EXTINF:0,IN-MY | RAJ MUSIX
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49144
+#EXTINF:0,IN-MY | RAJ NEWS
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49145
+#EXTINF:0,IN-MY | SHOLAM TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49146
+#EXTINF:0,IN-MY | SURYA MUSIC
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49148
+#EXTINF:0,IN-MY | SURYA TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49149
+#EXTINF:0,IND. HISTORY TV HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/3
+#EXTINF:0,IND. SONY TEN 2 HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/4
+#EXTINF:0,IND. NATIONAL GEOGRAPHIC HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/12
+#EXTINF:0,IND. SONY TEN 1 HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/13
+#EXTINF:0,IND. ZEE BANGLA HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/14
+#EXTINF:0,IND. ZEE TALKIES HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/15
+#EXTINF:0,IND. NICK HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/16
+#EXTINF:0,IND. & PICTURES HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/17
+#EXTINF:0,IND. NAT GEO WILD HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/18
+#EXTINF:0,IND. ZEE CAFE HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/19
+#EXTINF:0,IND. ROMEDAY NOW HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/20
+#EXTINF:0,IND. & TV HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/21
+#EXTINF:0,IND. STAR BHARAT HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/22
+#EXTINF:0,IND. SONY HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/23
+#EXTINF:0,IND. STAR GOLD SELECT HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/24
+#EXTINF:0,IND. ETV TELEGU HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/27
+#EXTINF:0,IND. COLORS INFINTIY HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/28
+#EXTINF:0,IND. & FLIX HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/29
+#EXTINF:0,IND. STAR MOVIES HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/30
+#EXTINF:0,IND. STAR MAA MOVIES HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/31
+#EXTINF:0,IND. UDHAYA HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/32
+#EXTINF:0,IND. MAZHAVIL MANORAMA HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/33
+#EXTINF:0,IND. ZEE TV HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/34
+#EXTINF:0,IND. STAR PLUS HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/35
+#EXTINF:0,IND. COLORS HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/36
+#EXTINF:0,IND. STAR WORLD PREMIERE HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/37
+#EXTINF:0,IND. ZEE CINEMA HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/38
+#EXTINF:0,IND. FOX LIFE HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/39
+#EXTINF:0,IND. SONY MAX HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/40
+#EXTINF:0,IND. STAR VIJAY SUPER 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/41
+#EXTINF:0,IND. STAR GOLD HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/42
+#EXTINF:0,IND. STAR VIJAY HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/43
+#EXTINF:0,IND. COLORS GUJRATI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/44
+#EXTINF:0,IND. STAR WORLD HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/45
+#EXTINF:0,IND. COLORS TAMIL HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/46
+#EXTINF:0,IND. SONY SAB HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/47
+#EXTINF:0,IND. STAR SPORTS 2 HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/48
+#EXTINF:0,IND. STAR SPORTS SELECT 1 HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/49
+#EXTINF:0,IND. STAR SPORTS SELECT 2 HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/50
+#EXTINF:0,PAK. ARY MUSIC 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/51
+#EXTINF:0,IND. DD SPORTS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/104
+#EXTINF:0,IND. DD KISAN
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/105
+#EXTINF:0,IND. DD BANGLA 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/106
+#EXTINF:0,IND. DD CHANDANA
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/107
+#EXTINF:0,IND. DD GIRNER
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/108
+#EXTINF:0,IND. ABZY MOVIES
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/109
+#EXTINF:0,IND. DD ARUN
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/110
+#EXTINF:0,IND. AAJ TAK NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/111
+#EXTINF:0,IND. B4U MOVIES
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/112
+#EXTINF:0,IND. DHINCHAAK
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/113
+#EXTINF:0,IND. BIG MAGIC GANGA
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/114
+#EXTINF:0,IND. LOOG SABHA TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/115
+#EXTINF:0,IND. DD NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/116
+#EXTINF:0,IND. SHEMAROO TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/117
+#EXTINF:0,IND. DANGAL
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/118
+#EXTINF:0,IND. BHOJPORI CINEMA
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/119
+#EXTINF:0,IND. 9XM
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/120
+#EXTINF:0,IND. MAHA MOVIES
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/121
+#EXTINF:0,IND. DD BHARATI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/122
+#EXTINF:0,IND. DD URDU
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/123
+#EXTINF:0,IND. MASTI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/124
+#EXTINF:0,IND. ZEE NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/125
+#EXTINF:0,IND. PTC PUNJABI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/134
+#EXTINF:0,IND. PTC CHAKDE
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/140
+#EXTINF:0,IND. PTC NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/143
+#EXTINF:0,IND. STAR MAA HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/149
+#EXTINF:0,IND. SUN TV HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/150
+#EXTINF:0,IND. EPIC HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/151
+#EXTINF:0,IIND. COLORS BANGLA HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/152
+#EXTINF:0,IND. ASIA NET HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/153
+#EXTINF:0,IND. SUN MUSIC HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/154
+#EXTINF:0,IND. TRAVEL XP HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/156
+#EXTINF:0,IND. ANGEL TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/170
+#EXTINF:0,IND. KAIRALI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/175
+#EXTINF:0,IND. KAIRALI NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/176
+#EXTINF:0,IND. SONY WAH
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/184
+#EXTINF:0,IND. DD NATIONAL 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/185
+#EXTINF:0,IND. ZEE BISCOPE
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/186
+#EXTINF:0,IND. STAR UTSAV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/187
+#EXTINF:0,IND. DA NEWS PLUS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/188
+#EXTINF:0,IND. NEWS INDIA 24X7
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/190
+#EXTINF:0,IND. MANGALAM TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/191
+#EXTINF:0,IND. MAHA PUNJABI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/193
+#EXTINF:0,IND. CHARDIKALA TIME TV
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/194
+#EXTINF:0,IND. ENTER 10 BANGLA
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/195
+#EXTINF:0,IND. ENTER 10 MOVIES 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/196
+#EXTINF:0,IND. DARSHANA TV
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/197
+#EXTINF:0,IND. SAFARI TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/198
+#EXTINF:0,IND. HARVEST TV 24X7
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/199
+#EXTINF:0,IND. STUDIO ONE 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/200
+#EXTINF:0,IND. STAR UTSAV MOVIES
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/201
+#EXTINF:0,IND. ASIA NET NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/202
+#EXTINF:0,IND. ASIA NET MIDDLE EAST 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/203
+#EXTINF:0,IND. MANORANJAN MOVIES
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/204
+#EXTINF:0,IND. SHOW BOX
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/205
+#EXTINF:0,IND. GOODNESS TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/206
+#EXTINF:0,IND. JAI HIND TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/207
+#EXTINF:0,IND. JEEVAN NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/208
+#EXTINF:0,IND. MANORAMA TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/209
+#EXTINF:0,IND. ZEE NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/210
+#EXTINF:0,IND. ABP NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/211
+#EXTINF:0,IND. TUNE 6 MUSIC
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/212
+#EXTINF:0,IND. SHALOM TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/213
+#EXTINF:0,IND. MEDIA ONE 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/214
+#EXTINF:0,IND. KAUMUDY 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/215
+#EXTINF:0,IND. DHERAN TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/216
+#EXTINF:0,IND. POWER VISION
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/217
+#EXTINF:0,IND. SATHIYAM TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/218
+#EXTINF:0,IND. NEWS 18
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/219
+#EXTINF:0,IND. THANTI TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/220
+#EXTINF:0,IND. JANAM TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/221
+#EXTINF:0,IND. MTV BEATS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/222
+#EXTINF:0,IND. ZING TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/223
+#EXTINF:0,IND. INDIA HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/224
+#EXTINF:0,IND. STAR JALSHA
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/226
+#EXTINF:0,IND. ASIA NET MOVIES 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/227
+#EXTINF:0,IND. ETV CINEMA HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/228
+#EXTINF:0,IND. ETV PLUS HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/229
+#EXTINF:0,IND. STAR MAA GOLD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/230
+#EXTINF:0,IND. ASIA NET PLUS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/231
+#EXTINF:0,PAK. PEACE TV ENGLISH
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/232
+#EXTINF:0,IND. ZEE KANNADA HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/233
+#EXTINF:0,IND. SUN LIFE 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/234
+#EXTINF:0,IND. UDHAYA COMEDY
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/235
+#EXTINF:0,IND. ETV LIFE 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/236
+#EXTINF:0,IND. COLORS KANNADA CINEMA
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/237
+#EXTINF:0,ChuChu Tv 1
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/243
+#EXTINF:0,IND. PTC PUNJABI GOLD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/255
+#EXTINF:0,IND. STAR SPORTS 1 HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/265
+#EXTINF:0,IND. & PRIVE HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/266
+#EXTINF:0,IND. HBO HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/267
+#EXTINF:0,IND. SURYA MOVIES HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/268
+#EXTINF:0,IND. CVR NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/269
+#EXTINF:0,IND. OM TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/270
+#EXTINF:0,IND. MANGO TV
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/271
+#EXTINF:0,IND. HORN BILL TV
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/272
+#EXTINF:0,IND. NEW NEWS DADA 24X7
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/273
+#EXTINF:0,IND. NK TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/274
+#EXTINF:0,IND. SAKHI TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/275
+#EXTINF:0,IND. TOTAL NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/276
+#EXTINF:0,IND. ASIA NET GOLDEN NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/277
+#EXTINF:0,IND. NR NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/278
+#EXTINF:0,IND. DIGHVIJAY NEWS 24X7
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/279
+#EXTINF:0,IND. REVELTATION NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/280
+#EXTINF:0,IND. ASSHIRWAT TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/281
+#EXTINF:0,IND. POLIMER TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/282
+#EXTINF:0,IND. TORCH TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/283
+#EXTINF:0,IND. HOPE TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/284
+#EXTINF:0,IND. GOOD NEWS TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/285
+#EXTINF:0,IND. ZEE TV SD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/287
+#EXTINF:0,IND. KARNATAKA TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/288
+#EXTINF:0,IND. RETRO TV
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/286
+#EXTINF:0,IND. DD KASIR
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/289
+#EXTINF:0,IND. DD NATIONAL GANGTOR
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/290
+#EXTINF:0,IND. GNT NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/291
+#EXTINF:0,IND. ABZY DHAKAD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/292
+#EXTINF:0,IND. FILAMCHI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/293
+#EXTINF:0,IND. B4U MUSIC NEW
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/294
+#EXTINF:0,IND. INDIA TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/295
+#EXTINF:0,IND. BFLIX MOVIES
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/296
+#EXTINF:0,IND. REPUBLIC NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/297
+#EXTINF:0,IND. MANORANJAN GRAND
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/298
+#EXTINF:0,IND. DD ODIA
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/299
+#EXTINF:0,IND. DD PODHIGAI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/300
+#EXTINF:0,IND. DD PUNJABI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/301
+#EXTINF:0,IND. DD YADAGIRI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/302
+#EXTINF:0,IND. DD MALAY
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/303
+#EXTINF:0,IND. SANSAD TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/304
+#EXTINF:0,IND. ABZY COOL
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/305
+#EXTINF:0,IND. STAR PLUS SD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/306
+#EXTINF:0,IND. THE Q TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/307
+#EXTINF:0,IND. COLORS CINEPLEX 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/308
+#EXTINF:0,IND. ZEE HINDUSTAN 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/309
+#EXTINF:0,IND. SONY PAL
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/310
+#EXTINF:0,IND. RISHTEY CINEPLEX
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/311
+#EXTINF:0,IND. MOVIE PLUS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/312
+#EXTINF:0,IND. DD RAPTAGIRI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/313
+#EXTINF:0,IND. COLROS RISHTEY
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/314
+#EXTINF:0,IND. B4U KADAK
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/315
+#EXTINF:0,IND. MANORANJAN TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/316
+#EXTINF:0,IND. TV9 MARATHI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/317
+#EXTINF:0,IND. DD MADHIYA PRADESH
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/318
+#EXTINF:0,IND. ZEE CINEMA SD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/319
+#EXTINF:0,IND. ND TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/320
+#EXTINF:0,IND. DHINCHAAK 2 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/321
+#EXTINF:0,IND. ENTER 10 BANGLA MOVIES
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/322
+#EXTINF:0,IND. DD ASSAM
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/323
+#EXTINF:0,PAK. GNN NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/1
+#EXTINF:0,PAK. URDU ONE
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/2
+#EXTINF:0,PAK. ISLAMIC SAUDI 1 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/5
+#EXTINF:0,PAK. PUBLIC NEWS HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/6
+#EXTINF:0,PAK. ARY ZINDAGI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/8
+#EXTINF:0,PAK. ARY QTV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/9
+#EXTINF:0,PAK. ARY NEWS ASIA
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/10
+#EXTINF:0,PAK. ARY DIGITAL ASIA 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/11
+#EXTINF:0,PAK. CAPITAL TV NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/25
+#EXTINF:0,PAK. DIN NEWS HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/26
+#EXTINF:0,PAK. A PLUS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/52
+#EXTINF:0,PAK. 8XM MUSIC
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/53
+#EXTINF:0,PAK. JALWA MUSIC
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/54
+#EXTINF:0,PAK. DAWN NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/55
+#EXTINF:0,PAK. 24 NEWS HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/56
+#EXTINF:0,PAK. CITY NEWS 42
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/57
+#EXTINF:0,PAK. CITY NEWS 41
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/58
+#EXTINF:0,PAK. ROOHI NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/59
+#EXTINF:0,PAK. GEO NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/60
+#EXTINF:0,PAK. GEO TEEZ 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/61
+#EXTINF:0,PAK. GTV NEWS HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/62
+#EXTINF:0,PAK. EXPRESS NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/63
+#EXTINF:0,PAK. EXPRESS ENTERTAINMENT 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/64
+#EXTINF:0,PAK. SAMAA NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/65
+#EXTINF:0,IND. AXN
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/66
+#EXTINF:0,PAK. GEO ENTERTAINMNET
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/67
+#EXTINF:0,PAK. GEO KAHANI
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/68
+#EXTINF:0,PAK. BABY TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/69
+#EXTINF:0,PAK. ATV ENTERTAINMENT
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/70
+#EXTINF:0,PAK. TEN SPORTS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/71
+#EXTINF:0,PAK. 92 NEWS HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/72
+#EXTINF:0,PAK. ARY FAMILY
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/73
+#EXTINF:0,PAK. ROZE NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/74
+#EXTINF:0,PAK. NEO NEWS HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/75
+#EXTINF:0,PAK. LAHORE RANG HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/76
+#EXTINF:0,PAK. TV ONE 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/77
+#EXTINF:0,PAK. WASEEB TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/78
+#EXTINF:0,PAK. NEWS ONE 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/79
+#EXTINF:0,PAK. HUM MASALA
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/80
+#EXTINF:0,PAK. HUM SITARAY
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/81
+#EXTINF:0,PAK. PTV HOME
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/82
+#EXTINF:0,PAK. PTV NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/83
+#EXTINF:0,PAK. AAJ NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/84
+#EXTINF:0,PAK. PLAY HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/85
+#EXTINF:0,PAK. AAJ ENTERTAINMENT 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/86
+#EXTINF:0,PAK. HUM TV HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/87
+#EXTINF:0,PAK. POP KIDS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/88
+#EXTINF:0,PAK. BBC EARTH 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/89
+#EXTINF:0,PAK. SAB TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/90
+#EXTINF:0,PAK. HUM NEWS HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/91
+#EXTINF:0,PAK. BOL ENTERTAINMENT
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/92
+#EXTINF:0,PAK. KIDS ZONE
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/93
+#EXTINF:0,PAK. HUM PASHTO 1
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/94
+#EXTINF:0,PAK. SINDH TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/96
+#EXTINF:0,PAK. SINDH NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/97
+#EXTINF:0,PAK. SUCH NEWS HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/98
+#EXTINF:0,PAK. KTN  ENTERTAINMENT
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/99
+#EXTINF:0,PAK. KASHISH TV
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/100
+#EXTINF:0,PAK. KTN NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/101
+#EXTINF:0,PAK. GEO SUPER
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/102
+#EXTINF:0,PAK. PTV WORLD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/103
+#EXTINF:0,PAK. FILMAX 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/126
+#EXTINF:0,PAK. PEACH TV URDU
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/127
+#EXTINF:0,PAK. HADI TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/128
+#EXTINF:0,PAK. AAB TAK
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/129
+#EXTINF:0,PAK. K 21 NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/130
+#EXTINF:0,PAK. RAVI TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/131
+#EXTINF:0,PAK. BBC WORLD NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/132
+#EXTINF:0,PAK. CNN NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/133
+#EXTINF:0,PAK. AL JAZEERA HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/135
+#EXTINF:0,PAK. PAIGHAM URDU
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/138
+#EXTINF:0,PAK. PAIGHAM PASHTO
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/139
+#EXTINF:0,PAK. MADANI TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/141
+#EXTINF:0,IND. STAR PRAVAH HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/142
+#EXTINF:0,IND. B4U MUSIC
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/145
+#EXTINF:0,PAK. CHANNEL 5 HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/147
+#EXTINF:0,PAK. LTN FAMILY HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/148
+#EXTINF:0,IND -  ZEE TAMIL HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/155
+#EXTINF:0,PAK. PTV SPORTS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/239
+#EXTINF:0,PAK. BOL NEWS HD 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/95
+#EXTINF:0,PAK.HAPPY PETS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/244
+#EXTINF:0,PAK. MEDIA KEY INHOUSE ENGLISH
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/245
+#EXTINF:0,PAK. EMG INHOUSE
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/246
+#EXTINF:0,PAK. A SPORTS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/247
+#EXTINF:0,PAK. EMG INHOUSE TAZAH
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/248
+#EXTINF:0,PAK. APNA TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/249
+#EXTINF:0,PAK. EMG INHOUSE SADABAHAR
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/250
+#EXTINF:0,PAK. EMG INHOUSE NEW WORLD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/251
+#EXTINF:0,PAK. BBC LIFESTYLE
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/252
+#EXTINF:0,PAK. BBC WORLD NEWS 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/253
+#EXTINF:0,PAK. LAHORE NEWS HD
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/254
+#EXTINF:0,PAK. MV MUSIC
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/256
+#EXTINF:0,PAK. DUNYA NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/257
+#EXTINF:0,PAK. HADI TV 1 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/258
+#EXTINF:0,PAK. DW NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/259
+#EXTINF:0,PAK. SACH NEWS
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/260
+#EXTINF:0,PAK. PTV GLOBAL
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/261
+#EXTINF:0,PAK. MUNTAZIR TV 
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/262
+#EXTINF:0,PAK. I & A TV
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/263
+#EXTINF:0,PAK. DISCOVER PAKISTAN
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/264
